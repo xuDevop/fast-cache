@@ -1,0 +1,31 @@
+{
+  "name": "fast-cache",
+  "version": "0.0.1",
+  "description": "短小精悍的前端缓存工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuDevop/fast-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "https://github.com/xuDevop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuDevop/fast-cache/issues"
+  },
+  "homepage": "https://github.com/xuDevop/fast-cache#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
