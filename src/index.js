@@ -1,1 +1,1 @@
-alert("fast-cache")
+alert('Hello World');
